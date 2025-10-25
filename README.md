@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi Divine C Okpe there 👋
 
-<!--
-**potential7/Potential7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Flutter and Dart more especially i'm exploring flutter for mobile, web and desktop
+- 🌱 I’m currently learning spring
+- 👯 I’m looking to collaborate on flutter
+- 🤔 I’m looking for help with ...spring
+- 💬 Ask me about ...Flutter, Dart and Node
+- 📫 How to reach me: Divineckpotential@gmail.com
+- 😄 Pronouns: ...he/him/his
+- ⚡ Fun fact: ... i solve difficult task with plan and research
+i meant add this to my github profile
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
